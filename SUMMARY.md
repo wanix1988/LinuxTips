@@ -1,26 +1,15 @@
 # Linux Tips
 
-##Linux系统使用基础
+##[Linux系统使用基础](linux_basic/linux_basic.md)
 
-### Graphic Environment
+##[Vim](vim/vim.md)
 
-1. 
-#### Gnome
-2. 
-#### Xfce4
-3. 
-#### KDE
+##[Linux Shell编程](linux_shell/linux_shell_programming.md)
 
-### Terminal
+##[Linux 应用编程](linux_app_programming/linux_app_programming.md)
 
-##Vim
+##[Linux 系统编程](linux_system_programming/linux_system_programming.md)
 
-##Linux Shell编程
+##[Linux Kernel](linux_kernel_programming/linux_kernel_programming.md)
 
-##Linux 应用编程
-
-##Linux 系统编程
-
-##Linux Kernel
-
-##其他主题
+##[其他主题](others/other_topics.md)
