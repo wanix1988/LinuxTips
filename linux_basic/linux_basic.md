@@ -25,3 +25,5 @@
 3. 使用nohup在登出ssh后仍然执行命令
     > 如：nohup wget -c xxxx &
 
+4. 将磁盘推出（kindle仅充电时有用）
+    > sudo eject /dev/sdxx
